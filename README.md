@@ -1,53 +1,63 @@
-<h1 align="center">Hi 👋, I'm Durga Swetha Maredipudi</h1>
-<h3 align="center">Full Stack Developer | Django & React Enthusiast</h3>
+# 👋 Hi, I'm Durga Swetha Maredipudi  
+
+### 💻 Full Stack Developer | Django • React  
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 BSc Graduate passionate about building web applications  
-- 🌱 Currently learning **Django & React.js**  
-- 💡 Interested in Full Stack Development and Problem Solving  
-- 📫 Reach me at: **swethamaredipudi@gmail.com**  
-- 📄 <a href="https://drive.google.com/file/d/1b6LmzeQrn_qdnzK6GUUHsdRDX9C3gmvx/view?usp=sharing" target="_blank">View My Resume</a>
+## 🚀 About Me  
+- 🎓 BSc Graduate  
+- 🌱 Learning **Django & React.js**  
+- 💡 Interested in building real-world web applications  
+- 📫 **Email:** swethamaredipudi@gmail.com  
+- 📄 [Resume](https://drive.google.com/file/d/1b6LmzeQrn_qdnzK6GUUHsdRDX9C3gmvx/view?usp=sharing)
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/swetha-maredipudi" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://instagram.com/swe.__09" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-<a href="https://www.hackerrank.com/swetha_maredipudi" target="blank">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
-</a>
-</p>
+## 🌐 Connect With Me  
+- 💼 LinkedIn: https://linkedin.com/in/swetha-maredipudi  
+- 📸 Instagram: https://instagram.com/swe.__09  
+- 💻 HackerRank: https://www.hackerrank.com/swetha_maredipudi  
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,react,mysql,postgresql,java" />
-</p>
+## 🛠️ Tech Stack  
+
+**Frontend**  
+HTML • CSS • Bootstrap • JavaScript • React  
+
+**Backend**  
+Python • Django  
+
+**Database**  
+MySQL • PostgreSQL • SQLite  
+
+**Other**  
+Java • Git (basic)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swetha2400&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swetha2400&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats  
+![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetha2400&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swetha2400&theme=tokyonight)
 
 ---
 
-### 🚀 Projects
-- 🔹 Add your best projects here (very important for recruiters)
-- 🔹 Example: To-Do App (Django + React)
-- 🔹 Example: Student Management System
+## 🔥 Projects  
+- 📝 To-Do App (Django)  
+- 🎓 Student Management System  
+- 🌐 Portfolio Website  
+
+*(Add your GitHub project links here — very important)*
 
 ---
 
-### ✨ Quote
-> "Strive for progress, not perfection."
+## ✨ Strengths  
+✔ Quick Learner  
+✔ Problem Solving  
+✔ Consistent Practice  
+
+---
+
+## 📌 Goal  
+To become a skilled Full Stack Developer and get placed in a good tech company 🚀
