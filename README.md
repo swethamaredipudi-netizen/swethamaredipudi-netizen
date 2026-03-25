@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 - 🎓 BSc Graduate  
 - 🌱 Learning **Django & React.js**  
-- 💡 Interested in building real-world web applications  
+- 💡 Interested in building real-world applications  
 - 📫 **Email:** swethamaredipudi@gmail.com  
 - 📄 [Resume](https://drive.google.com/file/d/1b6LmzeQrn_qdnzK6GUUHsdRDX9C3gmvx/view?usp=sharing)
 
@@ -22,24 +22,27 @@
 
 ## 🛠️ Tech Stack  
 
-**Frontend**  
-HTML • CSS • Bootstrap • JavaScript • React  
-
-**Backend**  
-Python • Django  
-
-**Database**  
-MySQL • PostgreSQL • SQLite  
-
-**Other**  
-Java • Git (basic)
+**Frontend:** HTML • CSS • Bootstrap • JavaScript • React  
+**Backend:** Python • Django  
+**Database:** MySQL • PostgreSQL • SQLite  
+**Other:** Java  
 
 ---
 
 ## 📊 GitHub Stats  
-![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetha2400&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swetha2400&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swetha2400&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swetha2400&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swetha2400&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -48,16 +51,7 @@ Java • Git (basic)
 - 🎓 Student Management System  
 - 🌐 Portfolio Website  
 
-*(Add your GitHub project links here — very important)*
-
 ---
 
-## ✨ Strengths  
-✔ Quick Learner  
-✔ Problem Solving  
-✔ Consistent Practice  
-
----
-
-## 📌 Goal  
-To become a skilled Full Stack Developer and get placed in a good tech company 🚀
+## ✨ Goal  
+To become a skilled Full Stack Developer and get placed in a top tech company 🚀
